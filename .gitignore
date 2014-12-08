@@ -8,6 +8,10 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+ext/.svn
+.DS_Store
+ext/cld2/internal/
+ext/cld2/public/
 
 ## Specific to RubyMotion:
 .dat*
