@@ -1,4 +1,4 @@
-# Compact Language Detection for Zendesk Apps
+# Compact Language Detection for Ruby
 
 This is a ruby wrapper for Google [Compact Language Detector 2](https://code.google.com/p/cld2/).
 
