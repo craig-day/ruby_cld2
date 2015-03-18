@@ -5,7 +5,7 @@ This is a ruby wrapper for Google [Compact Language Detector 2](https://code.goo
 ## Usage
 a. Include the Gem
 ```ruby
-gem 'ruby_cld2', :git => 'git@github.com:craig-day/cld2.git'
+gem 'ruby_cld2', :git => 'git@github.com:craig-day/ruby_cld2.git'
 ```
 b. Call the function on a given string.
 ```ruby
